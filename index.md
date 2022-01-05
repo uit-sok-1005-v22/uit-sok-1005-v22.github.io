@@ -7,9 +7,7 @@
 Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Forelesningsplan](forelesningsplan.md){:target="blank"}
-- [Seminarplan](seminarplan.md){:target="blank"}
-- [Innleveringsplan](innleveringer.md){:target="blank"}   
+- [Kursplan](kursplan.md){:target="blank"}
 
 Opptak av forelesningene ligger på [Panopto - endre lenke](http://histo.io/){:target="blank"}   
 
