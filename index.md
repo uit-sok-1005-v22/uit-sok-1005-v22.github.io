@@ -11,29 +11,23 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 - [Seminarplan](seminarplan.md){:target="blank"}
 - [Innleveringsplan](innleveringer.md){:target="blank"}   
 
-Opptak av forelesningene ligger på [Zootero?](https://vg.no){:target="blank"}   
+Opptak av forelesningene ligger på [Panopto - endre lenke](http://histo.io/){:target="blank"}   
 
-
-
-[Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module%5B%5D=SOK-1004-1){:target="blank"} på timeplan.uit.no
-
+[Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22v&module[]=SOK-1005-1#week-1){:target="blank"} på timeplan.uit.no
 
 ## Kursbeskrivelse 
 
-Kurset tas normalt i første høstsemester, og teller 15 studiepoeng.  
+Kurset tas normalt i andre vårsemester, og teller 10 studiepoeng.  
 [Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=722325){:target="blank"}
 
 ## Faglærerinfo  
 
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"} 
-- Cem Olcan (studentassistent):  <cem.olcan@uit.no>
-- Edgardo Salinas (studentassistent): <edgardo.d.salinas@uit.no>   
+- [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"} (fagansvarlig)
+- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
 
 ## Administrative spørsmål
 
 For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
-
 
 ## Pensum  
 
