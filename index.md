@@ -4,8 +4,7 @@
 
 ## Kursplan  
 
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
-Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
+Kursplanen inneholder en kronologisk oversikt over de temaer som vi gjennomgår. Timeplanen viser tidspunkt og sted dersom det er mulig med "fysisk" oppmøte.
 
 - [Kursplan](kursplan.md){:target="blank"}
 
@@ -17,6 +16,8 @@ Opptak av forelesningene ligger på [Panopto - endre lenke](http://histo.io/){:t
 
 Kurset tas normalt i andre vårsemester, og teller 10 studiepoeng.  
 [Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne/744168/sok-1005){:target="blank"}
+
+Til hver sesjon vil det være et tema, enten fra pensum, på DataCamp eller GitHub. Det vil også være medfølgende oppgaver. Disse gis bestått/ikke bestått, og alle arbeidskrav må være bestått for at kurset skal være bestått.
 
 ## Faglærerinfo  
 
@@ -39,9 +40,8 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/cou
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
+Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter, skal kun godkjennes), mens andre er karaktergivende.  
 
-Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.md){:target="blank"}.    
 
 
 
