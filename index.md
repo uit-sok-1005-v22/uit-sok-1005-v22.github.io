@@ -18,7 +18,7 @@ Opptak av forelesningene ligger på [Panopto - endre lenke](http://histo.io/){:t
 ## Kursbeskrivelse 
 
 Kurset tas normalt i andre vårsemester, og teller 10 studiepoeng.  
-[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=722325){:target="blank"}
+[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne/744168/sok-1005){:target="blank"}
 
 ## Faglærerinfo  
 
@@ -31,25 +31,13 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ## Pensum  
 
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/8430615560002205?auth=SAML){:target="blank"}
-- [The Economy - CORE](https://www.core-econ.org/the-economy/book/text/0-3-contents.html){:target="blank"}
-- [Learn RStudio IDE: Quick, Effective, and Productive Data Science - Matthew Campbell](https://link.springer.com/content/pdf/10.1007%2F978-1-4842-4511-8.pdf){:target="blank"}
+[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/8897939560002205){:target="blank"}
 
-## Ex.fac. oppgaver  
-Dette kurset er ex.fac (Examen facultatum) for bachelorstudiet i Samfunnsøkonomi med datavitenskap.  
-Ex. fac består av to deler: (i) kurs i informasjonskompetanse (iKomp), (ii) vitenskapsteori.  
-Begge finnes som opptak, og blir ikke gjennomgått i klasserommet. **Hver del må bestås med godkjent arbeidskrav.**   
-For frister se [innleveringsplanen](innleveringer.md){:target="blank"}.
-
-- [iKomp](https://result.uit.no/ikomp/){:target="blank"}
-  - Online kurs. Arbeidskravet tas digitalt. Kursbevis leveres i [Canvas](https://uit.instructure.com/courses/24034){:target="blank"}.
-- Vitenskapsteori
-  - [Online kurs](https://mediasite.uit.no/Mediasite/Channel/74954bff93cb4035bb5fde4b71fbae825f){:target="blank"}. For oppgaveteksten til arbeidskravet se [innleveringsplanen](innleveringer.md){:target="blank"}.
+- [R for Data Science - online version](https://r4ds.had.co.nz/){:target="blank"}
 
 ## Kunngjøringer  
 
-Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/24034){:target="blank"}.
-
+Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/25562/){:target="blank"}.
 
 ## Innlevering og eksamen  
 
@@ -57,17 +45,6 @@ Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_
 
 Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.md){:target="blank"}.    
 
- 
-
-## Innlevering Kull 2020
-
-[Innleveringsplan for Kull 2020](innleveringsplan_Kull_2020.md){:target="blank"}.  
 
 
-
-## KPMG Seminar
-
-Det settes opp et seminar i samarbeid med KPMG i løpet av semesteret. Her vil man lære om prosjektgjennomføring i arbeidslivet; blant annet presentasjonsteknikker, hvordan møte kunder, og tolke oppdrag, og hvordan presentere resultater for ulike kundegrupper.   
-
-Dato er mandag 27. september kl 12.30-14.30. [Program](KPMG_Seminar.md){:target="blank"}.
 
