@@ -33,11 +33,11 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/8897939560002205){:target="blank"}
 
-- [R for Data Science - online version](https://r4ds.had.co.nz/){:target="blank"}
+- [R for Data Science - online versjon](https://r4ds.had.co.nz/){:target="blank"}
 
 ## Kunngjøringer  
 
-Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/25562/){:target="blank"}.
+Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/25562/announcements){:target="blank"}.
 
 ## Innlevering og eksamen  
 
