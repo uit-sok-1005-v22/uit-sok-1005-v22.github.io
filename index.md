@@ -32,7 +32,9 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/8897939560002205){:target="blank"}
 
-- [R for Data Science - online versjon](https://r4ds.had.co.nz/){:target="blank"}
+- [R for Data Science - online versjon av boka](https://r4ds.had.co.nz/){:target="blank"}
+
+- Moduler i [datacamp](https://app.datacamp.com/){:target="blank"}. Du vil finne oversikt i [kursplanen](kursplan.md){:target="blank"}.
 
 ## Kunngjøringer  
 
