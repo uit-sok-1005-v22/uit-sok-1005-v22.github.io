@@ -13,4 +13,17 @@
 | | | Kapittel 9, 10 og 11 [RfDC](https://r4ds.had.co.nz/) |
 | | | Introduction to Importing Data in R [datacamp](https://app.datacamp.com/learn/courses/importing-data-in-r-part-1){:target='_blank_'} |
 | | | Intermediate Importing Data in R [datacamp](https://app.datacamp.com/learn/courses/importing-data-in-r-part-2){:target='_blank_'} |
-| | | |
+| 27/1 | 3 | |
+| 03/2 | 4 | |
+| 10/2 | 5 | |
+| 17/2 | 6 | |
+| 24/2 | 7 | |
+| 03/3 | 8 | |
+| 10/3 | 9 | |
+| 17/3 | 10 | |
+| 24/3 | 11 | |
+| 31/3 | 12 | |
+| 07/4 | 13 | |
+| 21/4 | 14 | |
+| 28/4 | 15 | |
+| 05/5 | 16 | |
