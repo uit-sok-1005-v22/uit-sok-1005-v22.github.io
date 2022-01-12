@@ -26,4 +26,4 @@
 | 07/4 | 13 | |
 | 21/4 | 14 | |
 | 28/4 | 15 | |
-| 05/5 | 16 | |
+| 05/5 | 16 | <iframe src="https://uit.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=fb7f61f1-158d-4a70-896c-ae1b00bcc861&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe> |
