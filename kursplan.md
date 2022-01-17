@@ -14,7 +14,10 @@
 | | | Kapittel 9, 10 og 11 [RfDC](https://r4ds.had.co.nz/) |
 | | | Introduction to Importing Data in R [datacamp](https://app.datacamp.com/learn/courses/importing-data-in-r-part-1){:target='_blank_'} |
 | | | Intermediate Importing Data in R [datacamp](https://app.datacamp.com/learn/courses/importing-data-in-r-part-2){:target='_blank_'} |
-| 27/1 | 3 | |
+| 27/1 | 3 | Data Wrangling intro |
+| | | Kapittel 2, 3, 4 og 5 [RfDC](https://r4ds.had.co.nz/) |
+| | | Cleaning Data in R [datacamp](https://app.datacamp.com/learn/courses/cleaning-data-in-r){:target='_blank_'} |
+| | | Data Manipulation with dplyr [datacamp](https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr){:target='_blank_'} |
 | 03/2 | 4 | |
 | 10/2 | 5 | |
 | 17/2 | 6 | |
