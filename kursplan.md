@@ -14,6 +14,7 @@
 | | | Kapittel 9, 10 og 11 [RfDC](https://r4ds.had.co.nz/) |
 | | | Introduction to Importing Data in R [datacamp](https://app.datacamp.com/learn/courses/importing-data-in-r-part-1){:target='_blank_'} |
 | | | Intermediate Importing Data in R [datacamp](https://app.datacamp.com/learn/courses/importing-data-in-r-part-2){:target='_blank_'} |
+| | | Alle online bøker om R samlet på ett sted [Big Book of R](https://www.bigbookofr.com/index.html){:target='_blank_'} | 
 | 27/1 | 3 | Data Wrangling intro |
 | | | Kapittel 2, 3, 4 og 5 [RfDC](https://r4ds.had.co.nz/) |
 | | | Cleaning Data in R [datacamp](https://app.datacamp.com/learn/courses/cleaning-data-in-r){:target='_blank_'} |
