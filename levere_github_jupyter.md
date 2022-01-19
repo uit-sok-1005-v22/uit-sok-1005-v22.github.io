@@ -2,7 +2,7 @@
 
 # Slik leverer du arbeidskrav på github fra jupyter notebook
 
-Vi vil her vise hvordan du lager et githubrepositorie der du skal levere dine arbeidskrav.
+Vi vil her vise hvordan du lager et githubrepositorie der du skal levere dine arbeidskrav. Videoen finner du i Canvas.
 
 ## Lag et nytt git-repositorie til innleveringene dine
 
