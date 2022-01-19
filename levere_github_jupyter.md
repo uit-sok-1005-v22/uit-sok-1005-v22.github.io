@@ -23,15 +23,15 @@ git config --global user.name "<brukernavn>"
 
 Du kan nå redigere repositoriet ditt
  
-## Gi tilgang til faglærer/seminarleder
+## Gi tilgang til faglærer
 Du må også gi oss tilgang, slik at vi kan se repositoriet og arbeidet ditt. Det gjør du slik:
 
 Når du er på nettsiden til repositoriet, gåt til "Settings", og så "Manage access", og legg til "espensirnes" og "oysteinm"
  
-## Dytte repositoriet til github:
+## Dytte repositoriet til github
 Dette gjør du ETTER at du har lagret en jupyter-fil i mappen til det klonede repositoriet. Sørg for at du lagrer i riktig mappe!
 
-1. Naviger til repositoriemappen i Terminal (se [tips og triks.md](https://github.com/uit-sok-1003-h21/notebooks/blob/main/tips_og_triks.md) for hvordan du navigerer i Terminal.) 
+1. Naviger til repositoriemappen i Terminal (se [tips og triks.md fra SOK-1003](https://github.com/uit-sok-1003-h21/notebooks/blob/main/tips_og_triks.md) for hvordan du navigerer i Terminal.) 
 2. Kjør i Terminal:
 ```
 git add .
