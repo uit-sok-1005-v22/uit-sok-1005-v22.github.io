@@ -16,7 +16,7 @@ git config --global user.email "<e-post>"
 git config --global user.name "<brukernavn>"
 ```
 
-4. Gå til **Repositories**, trykk **New**, gi repositoriet navnet `sok-1005-v22 og velg` **Private** eller **Public**. Merk at du skal benytte små bokstaver.
+4. Gå til **Repositories**, trykk **New**, gi repositoriet navnet `sok-1005-v22` og velg **Private** eller **Public**. Merk at du skal benytte små bokstaver.
 5. Hold denne fanen åpen, for du skal bruke html-adressen til denne siden.
 6. Sørg for at du har et token. Gå eventuelt til [https://github.com/settings/tokens/new](https://github.com/settings/tokens/new) for å generere nytt token. *Hold fanen åpen for å ha tokenet tilgjengelig.* Under "Select scopes", huk av for "repo".
 7. I jupyter terminal, kjør `git clone https://<token>@github.com/<sti>` der \<token\> er tokenet er det du fikk i 6. og \<sti\> er det som kommer etter **github.com/**  i html-adressen i 5.
