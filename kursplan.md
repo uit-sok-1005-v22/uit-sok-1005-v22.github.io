@@ -16,11 +16,15 @@
 | | | Intermediate Importing Data in R [datacamp](https://app.datacamp.com/learn/courses/importing-data-in-r-part-2){:target='_blank_'} |
 | | | Alle online bøker om R samlet på ett sted [Big Book of R](https://www.bigbookofr.com/index.html){:target='_blank_'} | 
 | 25/1 | **Deadline** | Levere oppgave 1 i github. [Bruksanvisning for jupyter](https://uit-sok-1005-v22.github.io/levere_github_jupyter){:target='_blank_'} |
+|      |              | Video for lokal RStudio finnes i Canvas/Panopto Video | 
 | 27/1 | 3 | Data Wrangling intro |
 | | | Kapittel 2, 3, 4 og 5 [RfDC](https://r4ds.had.co.nz/) |
 | | | Cleaning Data in R [datacamp](https://app.datacamp.com/learn/courses/cleaning-data-in-r){:target='_blank_'} |
 | | | Data Manipulation with dplyr [datacamp](https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr){:target='_blank_'} |
-| 03/2 | 4 | |
+| 03/2 | 4 | Joining data and R Markdown |
+| | | Kapittel 6, 7 og 8 [RfDC](https://r4ds.had.co.nz/) |
+|      |   | Joining Data with dplyr [datacamp](https://app.datacamp.com/learn/courses/joining-data-with-dplyr){:target='_blank_'} |
+|      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
 | 10/2 | 5 | |
 | 17/2 | 6 | |
 | 24/2 | 7 | |
