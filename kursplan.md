@@ -25,7 +25,10 @@
 | | | Kapittel 6, 7 og 8 [RfDC](https://r4ds.had.co.nz/) |
 |      |   | Joining Data with dplyr [datacamp](https://app.datacamp.com/learn/courses/joining-data-with-dplyr){:target='_blank_'} |
 |      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
-| 10/2 | 5 | |
+| 10/2 | 5 | Web scraping with R |
+| | | Kapittel 12 og 13 [RfDC](https://r4ds.had.co.nz/) |
+|      |   | Web Scraping in R [datacamp](https://app.datacamp.com/learn/courses/web-scraping-in-r){:target='_blank_'} |
+|      |   | Working with Web Data in R [datacamp](https://app.datacamp.com/learn/courses/working-with-web-data-in-r){:target='_blank_'} |
 | 17/2 | 6 | |
 | 24/2 | 7 | |
 | 03/3 | 8 | |
