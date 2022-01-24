@@ -1,6 +1,6 @@
 {% include navbar_open.html %}
 
-# Kursplan
+# Kursplan SOK-1005 Vår 2022
 
 | Dato <img width=80/>  | Sesjon  |  Tema/Ressurser <img width=200/>  |
 |-----------------------|---------|-----------------------------------| 
@@ -14,7 +14,7 @@
 | | | Kapittel 9, 10 og 11 [RfDC](https://r4ds.had.co.nz/) |
 | | | Introduction to Importing Data in R [datacamp](https://app.datacamp.com/learn/courses/importing-data-in-r-part-1){:target='_blank_'} |
 | | | Intermediate Importing Data in R [datacamp](https://app.datacamp.com/learn/courses/importing-data-in-r-part-2){:target='_blank_'} |
-| | | Alle online bøker om R samlet på ett sted [Big Book of R](https://www.bigbookofr.com/index.html){:target='_blank_'} | 
+| | | Alle online bøker om R samlet på ett sted i [Big Book of R](https://www.bigbookofr.com/index.html){:target='_blank_'} | 
 | 27/1 | 3 | *Data Wrangling intro* |
 | | | Kapittel 2, 3, 4 og 5 [RfDC](https://r4ds.had.co.nz/) |
 | | | Cleaning Data in R [datacamp](https://app.datacamp.com/learn/courses/cleaning-data-in-r){:target='_blank_'} |
@@ -30,9 +30,11 @@
 |      |   | Web Scraping in R [datacamp](https://app.datacamp.com/learn/courses/web-scraping-in-r){:target='_blank_'} |
 |      |   | Working with Web Data in R [datacamp](https://app.datacamp.com/learn/courses/working-with-web-data-in-r){:target='_blank_'} |
 | 17/2 | 6 | Data Visualization  |
+|      |   | Kapittel 28 [RfDC](https://r4ds.had.co.nz/) |
 |      |   | Introduction to Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-1){:target='_blank_'} |
 |      |   | Intermediate Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-2){:target='_blank_'} |
 | 24/2 | 7 | Data Wrangling |
+|      |   | Kapittel 17-21 [RfDC](https://r4ds.had.co.nz/) |
 | | | Working with Data in the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/working-with-data-in-the-tidyverse){:target='_blank_'} |
 | | | Reshaping Data with tidyr [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-2){:target='_blank_'} |
 | 03/3 | 8 |  es 1  | 
@@ -41,14 +43,18 @@
 | 24/3 | 11 | es 4  |
 | 31/3 | 12 | es 5  |
 | 07/4 | 13 | Dates, Time and Strings |
+|      |   | Kapittel 14 og 16 [RfDC](https://r4ds.had.co.nz/) |
 |      |   | Working with Dates and Times in R [datacamp](https://app.datacamp.com/learn/courses/working-with-dates-and-times-in-r){:target='_blank_'} |
 |      |   | String Manipulation with stringr in R [datacamp](https://app.datacamp.com/learn/courses/string-manipulation-with-stringr-in-r){:target='_blank_'} |
 | 21/4 | 14 | Categorical Data and Communicating with Data |
+|      |   | Kapittel 15, 26 og 27 [RfDC](https://r4ds.had.co.nz/) |
 |  |  | Categorical Data in the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/categorical-data-in-the-tidyverse){:target='_blank_'} |
 |  |  | Communicating with Data in the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/communicating-with-data-in-the-tidyverse){:target='_blank_'} |
 | 28/4 | 15 | Functions and functional programming |
+|      |    | Kapittel 22-25 [RfDC](https://r4ds.had.co.nz/) |
 |  |  | Introduction to Writing Functions in R [datacamp](https://app.datacamp.com/learn/courses/introduction-to-writing-functions-in-r){:target='_blank_'} |   
 | | | Foundations of Functional Programming with purrr [datacamp](https://app.datacamp.com/learn/courses/foundations-of-functional-programming-with-purrr){:target='_blank_'} |   
 | 05/5 | 16 | More on purrr and introducing shiny |
+|      |   | Kapittel 29 og 30 [RfDC](https://r4ds.had.co.nz/) |
 |  |  | Intermediate Functional Programming with purrr [datacamp](https://app.datacamp.com/learn/courses/intermediate-functional-programming-with-purrr){:target='_blank_'} |   
 |  |  | Building Dashboards with shinydashboard [datacamp](https://app.datacamp.com/learn/courses/building-dashboards-with-shinydashboard){:target='_blank_'} |   
