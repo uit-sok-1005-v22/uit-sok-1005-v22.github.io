@@ -23,7 +23,7 @@ Til hver sesjon vil det være et tema. I kursplan er pensum angitt på datacamp 
 
 - [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"} (fagansvarlig)
 - [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
-- [Sondre Elvebakken Løvås] <slo079@post.uit.no> er studentassistent
+- Sondre Elvebakken Løvås <slo079@post.uit.no> er studentassistent
 
 ## Administrative spørsmål
 
@@ -35,7 +35,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 - [R for Data Science - online versjon av boka](https://r4ds.had.co.nz/){:target="blank"}
 
-- Moduler i [datacamp](https://app.datacamp.com/){:target="blank"}. Du vil finne oversikt i [kursplanen](kursplan.md){:target="blank"}.
+- Moduler i [datacamp](https://app.datacamp.com/){:target="blank"}. Du finner oversikt i [kursplanen](kursplan.md){:target="blank"}. Innleveringsfristene er registrert i gruppen vår i datacamp. Når en frist går ut forsvinner kurset fra gruppen. Du må da gå inn i kurset direkte fra datacamp for å fullføre.
 
 ## Kunngjøringer  
 
