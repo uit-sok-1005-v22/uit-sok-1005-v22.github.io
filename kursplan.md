@@ -26,6 +26,7 @@
 |      |   | Joining Data with dplyr [datacamp](https://app.datacamp.com/learn/courses/joining-data-with-dplyr){:target='_blank_'} |
 |      |   | Reporting with R Markdown [datacamp](https://app.datacamp.com/learn/courses/reporting-with-rmarkdown){:target='_blank_'} |
 |      |   | R Markdown from RStudio [15 lessons with videos](https://rmarkdown.rstudio.com/lesson-1.html){:target='_blank_'} |
+| 08/2 | **Deadline** | Levere [oppgave 2](https://docs.google.com/document/d/e/2PACX-1vSnjNmJKj3q4GOTMWDg99hAwou9hxhYjsg5blfNIvAZRbOwGyjHSz3NkNUApIaIqJnREd99iMVqSKGj/pub){:target='_blank_'} i github |
 | 10/2 | 5 | *Web scraping with R* |
 | | | Kapittel 12 og 13 [RfDC](https://r4ds.had.co.nz/) |
 |      |   | Web Scraping in R [datacamp](https://app.datacamp.com/learn/courses/web-scraping-in-r){:target='_blank_'} |
