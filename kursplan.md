@@ -19,7 +19,7 @@
 | | | Kapittel 2, 3, 4 og 5 [RfDC](https://r4ds.had.co.nz/) |
 | | | Cleaning Data in R [datacamp](https://app.datacamp.com/learn/courses/cleaning-data-in-r){:target='_blank_'} |
 | | | Data Manipulation with dplyr [datacamp](https://app.datacamp.com/learn/courses/data-manipulation-with-dplyr){:target='_blank_'} |
-| 28/1 | **Deadline** | Levere oppgave 1 i github. [Bruksanvisning for jupyter](https://uit-sok-1005-v22.github.io/levere_github_jupyter){:target='_blank_'} |
+| 28/1 | **Deadline** | Levere [oppgave 1](https://docs.google.com/document/d/e/2PACX-1vQR9E7QSVC5tN-abmXN1MW3r2f2NqC1C6mt3Oj_MnS5k52WNjKF_83_ws6qBLR0Zkf-tUSqmOCIIhX3/pub){:target='_blank_'} i github. [Bruksanvisning for jupyter](https://uit-sok-1005-v22.github.io/levere_github_jupyter){:target='_blank_'} |
 |      |              | Video for å koble lokal RStudio med github finnes i Canvas/Panopto Video | 
 | 03/2 | 4 | *Joining data and R Markdown* |
 | | | Kapittel 6, 7 og 8 [RfDC](https://r4ds.had.co.nz/) |
