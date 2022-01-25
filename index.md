@@ -23,6 +23,7 @@ Til hver sesjon vil det være et tema. I kursplan er pensum angitt på datacamp 
 
 - [Øystein Myrland](https://uit.no/ansatte/person?p_document_id=41412){:target="blank"} (fagansvarlig)
 - [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
+- [Sondre Elvebakken Løvås](slo079@post.uit.no) er studentassistent
 
 ## Administrative spørsmål
 
