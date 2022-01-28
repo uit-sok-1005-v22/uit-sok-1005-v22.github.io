@@ -27,7 +27,7 @@ Til hver sesjon vil det være et tema. I kursplan er pensum angitt på datacamp 
 
 ## Administrative spørsmål
 
-For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
+For henvendelser av administrativ art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
 
 ## Pensum  
 
