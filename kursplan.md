@@ -35,6 +35,7 @@
 |      |   | Kapittel 28 [RfDC](https://r4ds.had.co.nz/) |
 |      |   | Introduction to Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-1){:target='_blank_'} |
 |      |   | Intermediate Data Visualization with ggplot2 [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-2){:target='_blank_'} |
+| 22/2 | **Deadline** | Levere [oppgave 3](https://docs.google.com/document/d/e/2PACX-1vReuQ2hAD1YGu3PdPYFdpfnZ8quElC8zQwL2jj8LHXEvDGy_VgxjHzKObJlmhap6rtPZwTmnarh9TXd/pub){:target='_blank_'} i github/url i Canvas |
 | 24/2 | 7 | *Data Wrangling* |
 |      |   | Kapittel 17-21 [RfDC](https://r4ds.had.co.nz/) |
 | | | Working with Data in the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/working-with-data-in-the-tidyverse){:target='_blank_'} |
