@@ -39,12 +39,12 @@
 |      |   | Kapittel 17-21 [RfDC](https://r4ds.had.co.nz/) |
 | | | Working with Data in the Tidyverse [datacamp](https://app.datacamp.com/learn/courses/working-with-data-in-the-tidyverse){:target='_blank_'} |
 | | | Reshaping Data with tidyr [datacamp](https://app.datacamp.com/learn/courses/data-visualization-with-ggplot2-2){:target='_blank_'} |
-| 03/3 | 8 | [Notater: 8 - git, pythonfiler og IDE](https://espensirnes.github.io/notebooks/html/1%20-%20introduksjon.html)  | 
-| 10/3 | 9 |  [Notater: 9 - webskraping med python](https://espensirnes.github.io/notebooks/html/1%20-%20introduksjon.html)  |
-| 17/3 | 10 | [Notater: 10 - interaktive grafer og websider](https://espensirnes.github.io/notebooks/html/1%20-%20introduksjon.html)  |
+| 03/3 | 8 | [Notater: 8 - git, pythonfiler og IDE](https://espensirnes.github.io/notebooks/html/8%20-%20git,%20pythonfiler%20og%20IDE.html)  | 
+| 10/3 | 9 |  [Notater: 9 - webskraping med python](https://espensirnes.github.io/notebooks/html/9%20-%20webskraping%20med%20python.html)  |
+| 17/3 | 10 | [Notater: 10 - interaktive grafer og websider](https://espensirnes.github.io/notebooks/html/10%20-%20interaktive%20grafer%20og%20websider.html)  |
 | 24/3 |    | Mappeinnlevering python 1: Skrap data fra nettet som vises på din nettside  |
-| 24/3 | 11 | [Notater: 11 - statsmodels](https://espensirnes.github.io/notebooks/html/1%20-%20introduksjon.html)  |
-| 31/3 | 12 | [Notater: 12 - interaktive kart](https://espensirnes.github.io/notebooks/html/1%20-%20introduksjon.html)  |
+| 24/3 | 11 | [Notater: 11 - statsmodels](https://espensirnes.github.io/notebooks/html/11%20-%20statsmodels.html)  |
+| 31/3 | 12 | [Notater: 12 - interaktive kart](https://espensirnes.github.io/notebooks/html/12%20-%20interaktive%20kart.html)  |
 | 6/4  |    | Mappeinnlevering python 2: Lag en interaktiv graf med en regresjonslinje hentet fra statsmodels  |
 | 07/4 | 13 | *Dates, Time and Strings* |
 |      |   | Kapittel 14 og 16 [RfDC](https://r4ds.had.co.nz/) |
