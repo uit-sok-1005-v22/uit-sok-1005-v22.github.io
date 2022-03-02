@@ -44,7 +44,7 @@
 | 04/3 | **Deadline** | Levere [oppgave 4](https://uit.instructure.com/courses/25562/assignments/70662){:target='_blank_'} i github/url i Canvas |
 | 10/3 | 9 |  [Notater: 9 - webskraping med python](https://espensirnes.github.io/notebooks/html/9%20-%20webskraping%20med%20python.html)  |
 | 17/3 | 10 | [Notater: 10 - statsmodels](https://espensirnes.github.io/notebooks/html/10%20-%20statsmodels.html)  |
-| 24/3 | **Deadline**  | Mappeinnlevering python 1: Skrap data fra nettet, kjør en regresjon og tolk resultatet. <br>Lag en blottostrategi  |
+| 24/3 | **Deadline**  | Mappeinnlevering python 1: a) Skrap data fra nettet, kjør en regresjon og tolk resultatet. <br>b) Lag en blottostrategi  |
 | 24/3 | 11 | [Notater: 11 - interaktive grafer og websider](https://espensirnes.github.io/notebooks/html/11%20-%20interaktive%20grafer%20og%20websider.html)  |
 | 31/3 | 12 | [Notater: 12 - interaktive kart](https://espensirnes.github.io/notebooks/html/12%20-%20interaktive%20kart.html)  |
 | 6/4  | **Deadline** | Mappeinnlevering python 2: Lag en interaktiv nettside  |
