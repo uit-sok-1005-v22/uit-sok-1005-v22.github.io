@@ -47,7 +47,7 @@
 | 24/3 | **Deadline**  | Mappeinnlevering python 1: Skrap data fra nettet, kjør en regresjon og tolk resultatet  |
 | 24/3 | 11 | [Notater: 11 - interaktive grafer og websider](https://espensirnes.github.io/notebooks/html/11%20-%20interaktive%20grafer%20og%20websider.html)  |
 | 31/3 | 12 | [Notater: 12 - interaktive kart](https://espensirnes.github.io/notebooks/html/12%20-%20interaktive%20kart.html)  |
-| 6/4  | **Deadline** | Mappeinnlevering python 2: Lag en interaktiv graf med en regresjonslinje hentet fra statsmodels  |
+| 6/4  | **Deadline** | Mappeinnlevering python 2: Lag en interaktiv nettside  |
 | 07/4 | 13 | *Dates, Time and Strings* |
 |      |   | Kapittel 14 og 16 [RfDC](https://r4ds.had.co.nz/) |
 |      |   | Working with Dates and Times in R [datacamp](https://app.datacamp.com/learn/courses/working-with-dates-and-times-in-r){:target='_blank_'} |
