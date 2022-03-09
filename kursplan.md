@@ -46,7 +46,7 @@
 | 17/3 | 10 | [Notater: 10 - statsmodels](https://espensirnes.github.io/notebooks/html/10%20-%20statsmodels.html)  |
 | 24/3 | 11 | [Notater: 11 - interaktive grafer og websider](https://espensirnes.github.io/notebooks/html/11%20-%20interaktive%20grafer%20og%20websider.html)  |
 | 31/3 | 12 | [Notater: 12 - interaktive kart](https://espensirnes.github.io/notebooks/html/12%20-%20interaktive%20kart.html)  |
-| 31/3 | **Deadline**  | Arbeidskrav python 1: <br>a) Skrap data fra nettet, kjør en regresjon og tolk resultatet. <br>b) Lag en blottostrategi (se oppgave nederst i [8 - git, pythonfiler og IDE](https://espensirnes.github.io/notebooks/html/8%20-%20git,%20pythonfiler%20og%20IDE.html)) |
+| 1/4 | **Deadline**  | Arbeidskrav python 1: <br>a) Skrap data fra nettet, kjør en regresjon og tolk resultatet. <br>b) Lag en blottostrategi (se oppgave nederst i [8 - git, pythonfiler og IDE](https://espensirnes.github.io/notebooks/html/8%20-%20git,%20pythonfiler%20og%20IDE.html)) |
 | 07/4 | 13 | *Dates, Time and Strings* |
 |      |   | Kapittel 14 og 16 [RfDC](https://r4ds.had.co.nz/) |
 |      |   | Working with Dates and Times in R [datacamp](https://app.datacamp.com/learn/courses/working-with-dates-and-times-in-r){:target='_blank_'} |
